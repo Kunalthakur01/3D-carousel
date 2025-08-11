@@ -83,3 +83,77 @@ Edit
 ├── Netflix_Analysis.ipynb
 ├── cleaned_netflix_data.csv
 └── README.md
+
+
+
+THERE IS ANOTHER DATASET PROJECT 
+
+"Weather Dataset Analysis with Python"
+📌 Overview
+This project analyzes a real-world weather dataset using Python to extract insights, perform statistical analysis, and visualize trends.
+It demonstrates how to work with CSV files, clean data, and use Pandas & Matplotlib for analysis.
+
+📂 Dataset
+Name: Weather Dataset
+
+Format: CSV file
+
+Source: [Specify dataset source if public]
+
+Key Columns: Date/Time, Weather Condition, Wind Speed, Visibility, Temperature, Humidity, Pressure
+
+🛠 Technologies Used
+Python – Data processing and analysis
+
+Pandas – Data cleaning, filtering, aggregation
+
+Matplotlib – Data visualization
+
+📊 Features & Analysis Performed
+Display basic dataset information (.head(), .shape, .columns, .dtypes, etc.)
+
+Find unique values and counts for key columns.
+
+Filter data based on conditions (e.g., weather = "Clear").
+
+Identify null and non-null values.
+
+Rename columns for clarity.
+
+Calculate statistics like mean, standard deviation, and variance.
+
+Extract records matching specific criteria (e.g., wind speed > 24 km/h).
+
+Group data by weather condition and find mean/min/max values.
+
+Visualize wind speed distribution using a histogram.
+
+📷 Sample Output
+(Add screenshots of terminal outputs or graphs from your analysis)
+
+🚀 How to Run
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/weather-data-analysis.git
+Install dependencies:
+
+bash
+Copy code
+pip install pandas matplotlib
+Place the dataset (Weather Dataset.csv) in the project folder.
+
+Run the Python script:
+
+bash
+Copy code
+python analysis_the_weatherdataset.py
+📌 Insights Learned
+Gained experience in data cleaning & transformation.
+
+Learned how to filter, group, and aggregate data.
+
+Practiced data visualization techniques.
+
+
