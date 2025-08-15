@@ -2,7 +2,7 @@
 This project explores and analyzes a real-world Netflix dataset using Python and Pandas. The goal was to extract meaningful insights about the type of content Netflix offers — including trends in releases, most common genres, durations, ratings, and countries producing the content.
 
 📁 Dataset
-Source: Kaggle Netflix Dataset (or specify your source)
+Source: Kaggle Netflix Dataset 
 
 Rows: ~8800
 
@@ -28,7 +28,6 @@ Rating
 
 Duration
 
-Genre (listed_in)
 
 Description
 
@@ -98,7 +97,7 @@ Name: Weather Dataset
 
 Format: CSV file
 
-Source: [Specify dataset source if public]
+Source: kaggle
 
 Key Columns: Date/Time, Weather Condition, Wind Speed, Visibility, Temperature, Humidity, Pressure
 
